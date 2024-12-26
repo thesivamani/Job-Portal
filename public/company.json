@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "company_logo": "https://www.logo.wine/a/logo/Google/Google-Logo.wine.svg",
+        "job_title": "Sr. Software Engineer",
+        "company_name": "Google LLC", 
+        "remote_or_onsite": "Onsite",
+        "location": "New York, NY",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "50,000 - 80,000",
+        "currency": "₹",
+        "job_description": "As a software engineer, you will work on a specific project critical to Google's needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.",
+        "job_responsibility": "Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality. Review code developed by other developers and provide feedback to ensure best practices (e.g., style guidelines, checking code in, accuracy, testability, and efficiency.",
+        "educational_requirements": "Bachelor's degree in Computer Science, a related field, or equivalent practical experience",
+        "experiences": "1 year of experience with software design and architecture",
+        "contact_information": {
+            "phone": "555-555-5555",
+            "email": "google@career.com"
+        }
+    },
+    {
+        "id": 2,
+        "company_logo": "https://www.logo.wine/a/logo/Microsoft/Microsoft-Logo.wine.svg",
+        "job_title": "Data Scientist",
+        "company_name": "Microsoft",
+        "remote_or_onsite": "Remote",
+        "location": "Bangalore, India",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "40,000 - 65,000",
+        "currency": "₹",
+        "job_description": "Join our data science team to build and deploy machine learning models that power Microsoft's products. You'll work on challenging problems in natural language processing, computer vision, and recommendation systems while collaborating with cross-functional teams.",
+        "job_responsibility": "Design and implement machine learning models, analyze large datasets to extract insights, collaborate with product teams to integrate ML solutions, and maintain production ML systems.",
+        "educational_requirements": "Master's degree in Computer Science, Data Science, or related field",
+        "experiences": "2-3 years of experience in machine learning and data science",
+        "contact_information": {
+            "phone": "555-555-5556",
+            "email": "careers@microsoft.com"
+        }
+    },
+    {
+        "id": 3,
+        "company_logo": "https://www.logo.wine/a/logo/Amazon_(company)/Amazon_(company)-Logo.wine.svg",
+        "job_title": "Frontend Developer",
+        "company_name": "Amazon",
+        "remote_or_onsite": "Hybrid",
+        "location": "Mumbai, India",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "35,000 - 55,000",
+        "currency": "₹",
+        "job_description": "We're looking for a talented Frontend Developer to join our e-commerce team. You'll be responsible for building responsive and user-friendly interfaces using React and modern web technologies.",
+        "job_responsibility": "Develop and maintain frontend applications, optimize website performance, implement UI/UX designs, and collaborate with backend developers for API integration.",
+        "educational_requirements": "Bachelor's degree in Computer Science or related field",
+        "experiences": "2+ years of experience with modern frontend frameworks",
+        "contact_information": {
+            "phone": "555-555-5557",
+            "email": "jobs@amazon.com"
+        }
+    },
+    {
+        "id": 4,
+        "company_logo": "https://www.logo.wine/a/logo/Meta_Platforms/Meta_Platforms-Logo.wine.svg",
+        "job_title": "DevOps Engineer",
+        "company_name": "Meta",
+        "remote_or_onsite": "Onsite",
+        "location": "Hyderabad, India",
+        "fulltime_or_parttime": "Fulltime",
+        "salary": "45,000 - 75,000",
+        "currency": "₹",
+        "job_description": "Join Meta's infrastructure team to build and maintain scalable deployment systems. You'll work on automating processes, implementing CI/CD pipelines, and ensuring system reliability across our platforms.",
+        "job_responsibility": "Manage cloud infrastructure, implement automation tools, monitor system performance, and collaborate with development teams to streamline deployment processes.",
+        "educational_requirements": "Bachelor's degree in Computer Science or equivalent experience",
+        "experiences": "3+ years of experience in DevOps and cloud technologies",
+        "contact_information": {
+            "phone": "555-555-5558",
+            "email": "careers@meta.com"
+        }
+    }
+]
